@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "99DEE50F-82ED-489D-B25C-6FA03E235258"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "525CB4C0-0FF0-4E00-89C0-E845CE1B0BD1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Giveth/Controllers/CoreDBHelper.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "124"
+            endingLineNumber = "124"
+            landmarkName = "updateEntity(entityToUpdate:withEntity:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "525CB4C0-0FF0-4E00-89C0-E845CE1B0BD1 - 6a5b324de11983dc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Giveth.CoreDBHelper.updateEntity(entityToUpdate: Giveth.Entity, withEntity: Giveth.Entity) -&gt; ()"
+                  moduleName = "Giveth"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/whthfcksrt/Documents/From%20Git/From%20Freelance/Giveth/do-donate-app/Giveth/Controllers/CoreDBHelper.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "124"
+                  endingLineNumber = "124"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "525CB4C0-0FF0-4E00-89C0-E845CE1B0BD1 - 6a5b324de11983dc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Giveth.CoreDBHelper.updateEntity(entityToUpdate: Giveth.Entity, withEntity: Giveth.Entity) -&gt; ()"
+                  moduleName = "Giveth"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/whthfcksrt/Documents/From%20Git/From%20Freelance/Giveth/do-donate-app/Giveth/Controllers/CoreDBHelper.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "124"
+                  endingLineNumber = "124"
+                  offsetFromSymbolStart = "132">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E5BCFA20-273B-42D1-A625-C11FD921F50C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Giveth/Controllers/CoreDBHelper.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "126"
+            endingLineNumber = "126"
+            landmarkName = "updateEntity(entityToUpdate:withEntity:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2E9BD537-F8F0-4BB4-A9B3-B41752FDAC58"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Giveth/Views/RegisterViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "accountTypeTapped(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "90CF86C6-7803-4651-A13A-336C788FA411"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Giveth/Views/HomePageVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
